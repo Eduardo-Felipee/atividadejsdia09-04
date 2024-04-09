@@ -1,0 +1,12 @@
+var meses = new Array("Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro","Dezembro");
+console.log("Meses do ano");
+for(var i = 0; i < meses.length; i++){
+    console.log(meses[i]);
+}
+
+
+// var semana = new Array("Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado");
+// console.log("Dias da semana");
+// for(var dia in semana){
+//     console.log(semana[dia]);
+// }
